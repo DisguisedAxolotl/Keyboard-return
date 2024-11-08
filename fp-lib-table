@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Alps_MX_Stabilizers")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/Alps_MX_Stabilizers.pretty")(options "")(descr ""))
+)
